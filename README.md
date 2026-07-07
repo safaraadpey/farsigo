@@ -3,8 +3,7 @@
 فارسی میانبر
 Farsi Mianbor
 
-FarsiGo is an open-source initiative to create a simplified, learnable, and globally accessible form of Persian while preserving its identity.
-
+FarsiGo is an AI-assisted simplified fork of Persian for learning, writing, and communication.
 ## Goals
 
 - Easier to learn
