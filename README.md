@@ -2,4 +2,4 @@
 فارسی میانبر / Farsi Mianbor  
 
 
-A simplified form of Persian designed for easier learning, writing, and communication. 
+FarsiGo is an open-source initiative to create a simplified, learnable, and globally accessible form of Persian while preserving its identity.
