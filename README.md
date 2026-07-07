@@ -18,9 +18,10 @@ FarsiGo is an open-source initiative to create a simplified, learnable, and glob
 Standard Persian:
 من دارم غذا می‌خورم.
 
+man daram gaza mikhoram
 FarsiGo:
 من غذا می خوردن.
-
+man gaza mi khordan
 ---
 
 Documentation:
