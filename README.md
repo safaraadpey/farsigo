@@ -25,7 +25,7 @@ FarsiGo is an open-source initiative to create a simplified, learnable, and glob
 
 من  غذا می خوردن.
 
-*man mi ghaza khordan.*
+*man ghaza mi khordan.*
 
 ---
 
