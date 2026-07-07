@@ -15,13 +15,18 @@ FarsiGo is an open-source initiative to create a simplified, learnable, and glob
 
 ## Quick Example
 
-Standard Persian:
+**Standard Persian**
+
 من دارم غذا می‌خورم.
 
-man daram gaza mikhoram
-FarsiGo:
-من غذا می خوردن.
-man gaza mi khordan
+*man daram ghaza mikhoram.*
+
+**FarsiGo**
+
+من  غذا می خوردن.
+
+*man mi ghaza khordan.*
+
 ---
 
 Documentation:
